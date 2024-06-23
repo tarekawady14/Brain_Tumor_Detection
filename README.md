@@ -16,4 +16,7 @@ this model takes mri's and detect the tumor type
 ### Dataset 1 : https://www.kaggle.com/datasets/abdelrahmankamel/btdataset
 ### Dataset 2 : https://www.kaggle.com/datasets/abdelrahmankamel/tumor-types
 
+## Author
+Abdelrahman Kamel
+
 
